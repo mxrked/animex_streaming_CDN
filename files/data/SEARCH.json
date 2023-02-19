@@ -1,0 +1,14 @@
+[
+  {
+    "searchItemID": "search_1",
+    "searchItemName": "Attack On Titan",
+    "searchItemImg": "https://raw.githubusercontent.com/mxrked/animex_streaming_CDN/master/bgs/aot/bg-3.webp",
+    "searchItemLink": "/series#Attack_On_Titan"
+  },
+  {
+    "searchItemID": "search_2",
+    "searchItemName": "Chainsaw Man",
+    "searchItemImg": "https://raw.githubusercontent.com/mxrked/animex_streaming_CDN/master/bgs/csm/bg-2.webp",
+    "searchItemLink": "/series#Chainsaw_Man"
+  }
+]
